@@ -1,0 +1,8 @@
+.DS_Store
+.apm
+.node-gyp
+compile-cache
+packages
+storage
+dev
+.npm

@@ -1,0 +1,19 @@
+"*":
+  "exception-reporting":
+    userId: "f3d3afe9-8f32-63e1-9813-a5a42e4e6716"
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+    fontSize: 18
+  linter:
+    showErrorPanel: false
+  "atom-terminal":
+    setWorkingDirectory: false
+    surpressDirectoryArgument: false
+  term2: {}
+  "asciidoc-preview":
+    tocType: "none"
+    showNumberedHeadings: false
+  emmet: {}
